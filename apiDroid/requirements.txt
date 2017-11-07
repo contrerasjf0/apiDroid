@@ -1,0 +1,7 @@
+Django==1.11.7
+pytz==2017.3
+mysqlclient
+gunicorn
+djangorestframework==3.6.4
+requests
+djangorestframework-jwt
